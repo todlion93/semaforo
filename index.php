@@ -17,7 +17,6 @@
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
 
 
-	<title>INDECE DE MASA CORPORAL</title>
 </head>
 <body>
 
